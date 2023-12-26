@@ -4,7 +4,7 @@ Introducing the Student Result Management System – an innovative Java Swing-ba
 
 Key Highlights:
 
-Secure User Authentication: A robust login system has been meticulously crafted, offering role-based access control for administrators, teachers, and students, ensuring data privacy and system integrity.
+Secure User Authentication: A robust login system has been meticulously crafted, offering access control for administrators, teachers, and students, ensuring data privacy and system integrity.
 
 Comprehensive Student Information Management: Experience the power of a feature-rich database that efficiently stores and manages student details, including personal information, contact details, and comprehensive academic histories.
 
